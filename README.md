@@ -1,6 +1,6 @@
 # Projeto Estacionamento
 
-Este projeto esta sendo desenvolvido para aula de Engenharia de Sistemas para a FIAP da Turma 1SIR
+Este projeto esta sendo desenvolvido para aula de Engenharia de Sistemas para a FIAP da Turma 2SIR
 
 ## Iniciando Projeto
 
